@@ -1,0 +1,77 @@
+[
+  {
+    "term": "Platformed subjectivity",
+    "definition": "The hybrid condition of being shaped by algorithmic feedbacks, data infrastructures, and interface routines where the user becomes a techno-organic node modulated by affective, cognitive, and behavioral capture.",
+    "relatedTerms": ["Technosubjectivity", "Networked identity"]
+  },
+  {
+    "term": "Affective modulation",
+    "definition": "The pre-cognitive shaping of emotional and energetic states through interface design including likes, pings, and ranking systems. This modulation is the fuel of platform participation and the extraction of value (Terranova, 2004).",
+    "relatedTerms": ["Affective computing", "Emotional labor"]
+  },
+  {
+    "term": "Machine perception",
+    "definition": "The automated sensing and interpretation of the world through digital facial recognition, predictive vision, and algorithmic filtering and other digital systems, which reconstruct visibility itself (Arcagni, 2020).",
+    "relatedTerms": ["Computer vision", "Predictive modeling"]
+  },
+  {
+    "term": "Vectoralist class",
+    "definition": "A class that profits from the ownership and control of information vectors such as platforms, protocols, and networks — while they do not produce value directly. They monetize flows of attention, affect, and abstraction (Wark, 2004).",
+    "relatedTerms": ["Platform capitalism", "Cognitive extraction"]
+  },
+  {
+    "term": "Hacker class",
+    "definition": "The generative class—artists, coders, designers—who create new cultural forms and abstractions. Their creative labor is often captured and gamified in platform economies (Wark, 2004).",
+    "relatedTerms": ["Creative commons", "Generative culture"]
+  },
+  {
+    "term": "MASC (Multilingual Artist and Sensory Code)",
+    "definition": "A posthuman mode of ethical resistance and literacy. MASC describes fluency across media grammars and sensory registers as a means to navigate and resist platform governance through situated creation.",
+    "relatedTerms": ["Transmedia fluency", "Situated creation"]
+  },
+  {
+    "term": "Capture",
+    "definition": "Capture is design as governance: the infrastructural process by which platforms script, extract, and govern gesture, affect, and perception—before conscious thought arises.",
+    "relatedTerms": ["Soft control", "Micro-regulation"]
+  },
+  {
+    "term": "Media grammars",
+    "definition": "The underlying symbolic and computational logics of platforms that shape how meaning is created and circulated—e.g., swipe interfaces, content filters, or prompt syntaxes.",
+    "relatedTerms": ["Interface syntax", "Code aesthetics"]
+  },
+  {
+    "term": "Sensorial registers",
+    "definition": "The embodied channels through which perception is modulated are visual, haptic, auditory, affective. They are increasingly shaped by devices like wearables, interfaces, and biometric feedback loops.",
+    "relatedTerms": ["Embodied interaction", "Biofeedback"]
+  },
+  {
+    "term": "Gamified subjectivity",
+    "definition": "A selfhood produced by metric-driven feedback—likes, scores, badges—and action is inevitably steered toward platform-optimized engagement and visibility.",
+    "relatedTerms": ["Quantified self", "Behavioral economics"]
+  },
+  {
+    "term": "Post-cognitive governance",
+    "definition": "Governance that targets cognition itself through predictive tools, wearables, and interface nudges. Behavior, thought, and mood are guided before reasoning intervenes (Clark & Chalmers, 1998).",
+    "relatedTerms": ["Nudge design", "Neurocapitalism"]
+  },
+  {
+    "term": "Hybrid aesthetics",
+    "definition": "An artistic mode that operates inside platform logics—where works are not fixed objects but dynamic, recombinable assemblages co-shaped by users, algorithms, and data flows (Quaranta, 2015).",
+    "relatedTerms": ["Post-internet art", "Live systems"]
+  },
+  {
+    "term": "Extended mind hypothesis",
+    "definition": "A theory stating that cognition is not confined to the mind but extends into external tools, environments, and technologies—such as maps, apps, wearables—which function as cognitive prosthetics (Clark & Chalmers, 1998).",
+    "relatedTerms": ["Cognitive offloading", "Techno-embodiment"]
+  },
+  {
+    "term": "Surveillance capitalism",
+    "definition": "A system where platforms extract and commodify emotional, cognitive, and social life without consent (Zuboff, 2019), and human behavior is mined as a raw material for prediction and monetization.",
+    "relatedTerms": ["Data colonialism", "Predictive governance"]
+  },
+  {
+    "term": "Ethical resistance",
+    "definition": "A practice of cultivating posthuman agency within systems of modulation and capture. Drawing from Vallor and Haraway, this practice emphasizes relational care, situated irony, and techno-moral skill as paths of resilience.",
+    "relatedTerms": ["Techno-moral skill", "Relational autonomy"]
+  }
+]

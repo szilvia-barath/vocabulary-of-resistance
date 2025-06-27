@@ -1,0 +1,370 @@
+{
+  "nodes": [
+    {
+      "id": "Platformed subjectivity",
+      "group": "subjectivity"
+    },
+    {
+      "id": "Affective modulation",
+      "group": "modulation"
+    },
+    {
+      "id": "Machine perception",
+      "group": "perception"
+    },
+    {
+      "id": "Vectoralist class",
+      "group": "economy"
+    },
+    {
+      "id": "Hacker class",
+      "group": "economy"
+    },
+    {
+      "id": "MASC (Multilingual Artist and Sensory Code)",
+      "group": "resistance"
+    },
+    {
+      "id": "Capture",
+      "group": "governance"
+    },
+    {
+      "id": "Media grammars",
+      "group": "infrastructure"
+    },
+    {
+      "id": "Sensorial registers",
+      "group": "embodiment"
+    },
+    {
+      "id": "Gamified subjectivity",
+      "group": "subjectivity"
+    },
+    {
+      "id": "Post-cognitive governance",
+      "group": "governance"
+    },
+    {
+      "id": "Hybrid aesthetics",
+      "group": "art"
+    },
+    {
+      "id": "Extended mind hypothesis",
+      "group": "cognition"
+    },
+    {
+      "id": "Surveillance capitalism",
+      "group": "economy"
+    },
+    {
+      "id": "Ethical resistance",
+      "group": "resistance"
+    },
+    {
+      "id": "Technosubjectivity",
+      "group": "related"
+    },
+    {
+      "id": "Networked identity",
+      "group": "related"
+    },
+    {
+      "id": "Affective computing",
+      "group": "related"
+    },
+    {
+      "id": "Emotional labor",
+      "group": "related"
+    },
+    {
+      "id": "Computer vision",
+      "group": "related"
+    },
+    {
+      "id": "Predictive modeling",
+      "group": "related"
+    },
+    {
+      "id": "Platform capitalism",
+      "group": "related"
+    },
+    {
+      "id": "Cognitive extraction",
+      "group": "related"
+    },
+    {
+      "id": "Creative commons",
+      "group": "related"
+    },
+    {
+      "id": "Generative culture",
+      "group": "related"
+    },
+    {
+      "id": "Transmedia fluency",
+      "group": "related"
+    },
+    {
+      "id": "Situated creation",
+      "group": "related"
+    },
+    {
+      "id": "Soft control",
+      "group": "related"
+    },
+    {
+      "id": "Micro-regulation",
+      "group": "related"
+    },
+    {
+      "id": "Interface syntax",
+      "group": "related"
+    },
+    {
+      "id": "Code aesthetics",
+      "group": "related"
+    },
+    {
+      "id": "Embodied interaction",
+      "group": "related"
+    },
+    {
+      "id": "Biofeedback",
+      "group": "related"
+    },
+    {
+      "id": "Quantified self",
+      "group": "related"
+    },
+    {
+      "id": "Behavioral economics",
+      "group": "related"
+    },
+    {
+      "id": "Nudge design",
+      "group": "related"
+    },
+    {
+      "id": "Neurocapitalism",
+      "group": "related"
+    },
+    {
+      "id": "Post-internet art",
+      "group": "related"
+    },
+    {
+      "id": "Live systems",
+      "group": "related"
+    },
+    {
+      "id": "Cognitive offloading",
+      "group": "related"
+    },
+    {
+      "id": "Techno-embodiment",
+      "group": "related"
+    },
+    {
+      "id": "Data colonialism",
+      "group": "related"
+    },
+    {
+      "id": "Predictive governance",
+      "group": "related"
+    },
+    {
+      "id": "Techno-moral skill",
+      "group": "related"
+    },
+    {
+      "id": "Relational autonomy",
+      "group": "related"
+    }
+  ],
+  "links": [
+    {
+      "source": "Platformed subjectivity",
+      "target": "Gamified subjectivity"
+    },
+    {
+      "source": "Platformed subjectivity",
+      "target": "Affective modulation"
+    },
+    {
+      "source": "Platformed subjectivity",
+      "target": "Machine perception"
+    },
+    {
+      "source": "Affective modulation",
+      "target": "Capture"
+    },
+    {
+      "source": "Machine perception",
+      "target": "Post-cognitive governance"
+    },
+    {
+      "source": "Vectoralist class",
+      "target": "Surveillance capitalism"
+    },
+    {
+      "source": "Vectoralist class",
+      "target": "Capture"
+    },
+    {
+      "source": "Hacker class",
+      "target": "Hybrid aesthetics"
+    },
+    {
+      "source": "Hacker class",
+      "target": "MASC (Multilingual Artist and Sensory Code)"
+    },
+    {
+      "source": "MASC (Multilingual Artist and Sensory Code)",
+      "target": "Ethical resistance"
+    },
+    {
+      "source": "Capture",
+      "target": "Post-cognitive governance"
+    },
+    {
+      "source": "Media grammars",
+      "target": "Sensorial registers"
+    },
+    {
+      "source": "Gamified subjectivity",
+      "target": "Post-cognitive governance"
+    },
+    {
+      "source": "Extended mind hypothesis",
+      "target": "Post-cognitive governance"
+    },
+    {
+      "source": "Extended mind hypothesis",
+      "target": "Sensorial registers"
+    },
+    {
+      "source": "Ethical resistance",
+      "target": "Surveillance capitalism"
+    },
+    {
+      "source": "Platformed subjectivity",
+      "target": "Technosubjectivity"
+    },
+    {
+      "source": "Platformed subjectivity",
+      "target": "Networked identity"
+    },
+    {
+      "source": "Affective modulation",
+      "target": "Affective computing"
+    },
+    {
+      "source": "Affective modulation",
+      "target": "Emotional labor"
+    },
+    {
+      "source": "Machine perception",
+      "target": "Computer vision"
+    },
+    {
+      "source": "Machine perception",
+      "target": "Predictive modeling"
+    },
+    {
+      "source": "Vectoralist class",
+      "target": "Platform capitalism"
+    },
+    {
+      "source": "Vectoralist class",
+      "target": "Cognitive extraction"
+    },
+    {
+      "source": "Hacker class",
+      "target": "Creative commons"
+    },
+    {
+      "source": "Hacker class",
+      "target": "Generative culture"
+    },
+    {
+      "source": "MASC (Multilingual Artist and Sensory Code)",
+      "target": "Transmedia fluency"
+    },
+    {
+      "source": "MASC (Multilingual Artist and Sensory Code)",
+      "target": "Situated creation"
+    },
+    {
+      "source": "Capture",
+      "target": "Soft control"
+    },
+    {
+      "source": "Capture",
+      "target": "Micro-regulation"
+    },
+    {
+      "source": "Media grammars",
+      "target": "Interface syntax"
+    },
+    {
+      "source": "Media grammars",
+      "target": "Code aesthetics"
+    },
+    {
+      "source": "Sensorial registers",
+      "target": "Embodied interaction"
+    },
+    {
+      "source": "Sensorial registers",
+      "target": "Biofeedback"
+    },
+    {
+      "source": "Gamified subjectivity",
+      "target": "Quantified self"
+    },
+    {
+      "source": "Gamified subjectivity",
+      "target": "Behavioral economics"
+    },
+    {
+      "source": "Post-cognitive governance",
+      "target": "Nudge design"
+    },
+    {
+      "source": "Post-cognitive governance",
+      "target": "Neurocapitalism"
+    },
+    {
+      "source": "Hybrid aesthetics",
+      "target": "Post-internet art"
+    },
+    {
+      "source": "Hybrid aesthetics",
+      "target": "Live systems"
+    },
+    {
+      "source": "Extended mind hypothesis",
+      "target": "Cognitive offloading"
+    },
+    {
+      "source": "Extended mind hypothesis",
+      "target": "Techno-embodiment"
+    },
+    {
+      "source": "Surveillance capitalism",
+      "target": "Data colonialism"
+    },
+    {
+      "source": "Surveillance capitalism",
+      "target": "Predictive governance"
+    },
+    {
+      "source": "Ethical resistance",
+      "target": "Techno-moral skill"
+    },
+    {
+      "source": "Ethical resistance",
+      "target": "Relational autonomy"
+    }
+  ]
+}
